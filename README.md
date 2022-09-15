@@ -25,7 +25,7 @@ Several issues arose during my project, including carousel and mobile responsive
 
 ## Deployed link
 
-https://mellow-figolla-3c0f97.netlify.app
+https://zee5-clone-site.netlify.app/
 
 ## Blog
 
